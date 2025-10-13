@@ -1,33 +1,18 @@
-# Beer City Code 2025
+# Presentations
 
-Hello and thank you for attending Beer City Code this year!
+This is a collection of my presentations and talks given at various conferences and meetups. Resources may vary by event and include slide decks and external links to code repositories, blog posts, and more.
 
-The following is a list of resources from my presentations at Beer City Code 2025:
+## Overview
+
+Shrug Man is an open-source static web application that allows you to easily copy the shrug emoji ¯\\\_(ツ)\_/¯ to your clipboard. It is designed to be simple and lightweight, making it easy to use and deploy. The mission of this project is to:
+
+🤷‍♂️ Be fun
+
+🤷‍♀️ Be simple
+
+🤷 Shrug
 
 ## Table of contents
 
-- [Aspire to Effortless](#aspire-to-effortless)
-- [AI for Dummies](#ai-for-dummies)
-- [Contact me](#contact-me)
-
-## Aspire to Effortless
-
-- [Presentation slide deck](./files/aspiretoeffortless.pdf)
-- [CRUD Counter demo repository](https://github.com/victorfrye/crudcounter)
-- [Aspire roadmap 2025 blog post](https://victorfrye.com/blog/posts/aspire-roadmap-2025)
-- [Aspire Discord](https://aka.ms/aspire-discord)
-- [Feedback form](https://forms.cloud.microsoft/r/V60xbF9iRW)
-
-## AI for Dummies
-
-- [Presentation slide deck](./files/aifordummies.pdf)
-- [Mocking Mirror demo app](https://github.com/victorfrye/mockingmirror)
-- [Feedback form](https://forms.cloud.microsoft/r/PdYbrMsDDY)
-
-## Contact me
-
-If you are interested in getting in touch for additional information, feedback, or simply to connect, please feel free to reach out!
-
-- [My website](https://victorfrye.com)
-- [LinkedIn](https://www.linkedin.com/in/victorfrye)
-- [GitHub](https://github.com/victorfrye)
+- [Beer City Code 2025](./files/2025/beercitycode/README.md)
+- [Momentum 2025](./files/2025/momentum/README.md)
