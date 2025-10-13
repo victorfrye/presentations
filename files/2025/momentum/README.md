@@ -14,9 +14,6 @@ The following is a list of resources from my presentations at Momentum 2025:
 - [Presentation slide deck](./cloudterraformation.pdf)
 - [Shrug Man demo repository](https://github.com/victorfrye/shrugman)
 - [Comparing AzureRM and AzAPI](https://www.hashicorp.com/en/blog/enhancing-azure-deployments-with-azurerm-and-azapi-terraform-providers)
-- [AzureRM Terraform registry](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
-- [AzAPI Terraform registry](https://registry.terraform.io/providers/azure/azapi/latest/docs)
-- [Aspire Discord](https://aka.ms/aspire-discord)
 - [Feedback form](https://forms.microsoft.com/r/Mm85FM1ykK)
 
 ## Contact me
