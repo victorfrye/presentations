@@ -16,3 +16,4 @@ Shrug Man is an open-source static web application that allows you to easily cop
 
 - [Beer City Code 2025](./files/2025/beercitycode/README.md)
 - [Momentum 2025](./files/2025/momentum/README.md)
+- [CodeMash 2026](./files/2026/codemash/README.md)
